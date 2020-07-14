@@ -1,4 +1,4 @@
-# Códiho exemplo para implementação da biblioteca do Firebase no Arduino 
+# Código exemplo para implementação da biblioteca do Firebase no Arduino 
 
 ### Requirements
 * Firebase.h

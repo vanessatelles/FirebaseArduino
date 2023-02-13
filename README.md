@@ -1,18 +1,21 @@
-# Sample code for implementing the Firebase library on Arduino
+# Sample code to connect an Arduino with Firebase
 
 ![Novo Projeto](https://user-images.githubusercontent.com/15792134/218551438-4629cced-16cb-491e-8e48-d4a25d16b7d8.png)
 
 
 ### Requirements
-* Firebase.h
+* Firebase.h (Firebase library for Arduino)
 * Arduino Mega or
 * Arduino UNO
 
+
 ## Ps:
 
-*Replace your ``network name`` and ``password`` in the respective fields in the code.
+* The file ``Firebase.ino`` has comments in PT-BR 🇧🇷 but the code is easy to follow
 
-*Tutorial on how to create the Firebase database will be added soon.
+* Replace ``WIFI_SSID`` with your network name and ``WIFI_PASSWORD`` with the password in the code.
+
+* Tutorial on how to create the Firebase database will be added soon.
 
 <br>
 
@@ -24,13 +27,14 @@
 
 
 ### Requirements
-* Firebase.h
+* Firebase.h (Biblioteca do Firebase)
 * Arduino Mega ou
 * Arduino UNO.
 
 ## Observações
-*Substitua o ``nome da sua rede`` e a respectiva ``senha`` nos campos destinados a essas varivéis no código. 
 
-*Tutorial de como criar o banco Firebase será adicionado em breve.
+* Substitua o ``WIFI_SSID`` com o nome da rede e ``WIFI_PASSWORD`` com a senha nos campos destinados a essas varivéis no código. 
+
+* Tutorial de como criar o banco Firebase será adicionado em breve.
 
 
